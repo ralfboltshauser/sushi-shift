@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bm1wyncwss2la"
+path="res://.godot/imported/Rabbit_Cyan.obj-3ff2170576dd8c8eb1a5b6562538536c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Rabbit_Cyan.obj-3ff2170576dd8c8eb1a5b6562538536c.mesh"]
+
+source_file="res://assets/quaternius-sushi-restaurant-kit/Sushi Restaurant Kit - May 2023/Characters/Normal/OBJ/Rabbit_Cyan.obj"
+dest_files=["res://.godot/imported/Rabbit_Cyan.obj-3ff2170576dd8c8eb1a5b6562538536c.mesh", "res://.godot/imported/Rabbit_Cyan.obj-3ff2170576dd8c8eb1a5b6562538536c.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

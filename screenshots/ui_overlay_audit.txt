@@ -1,0 +1,19 @@
+MAIN_MENU
+OK MainMenuPanel rect=(x=190.0 y=90.0 w=900.0 h=540.0) min=(w=860.0 h=500.0)
+OK MainMenuStartButton rect=(x=220.0 y=450.0 w=520.0 h=60.0) min=(w=300.0 h=50.0)
+OK MainMenuQuitButton rect=(x=220.0 y=520.0 w=520.0 h=48.0) min=(w=300.0 h=44.0)
+OK MainMenuControls rect=(x=220.0 y=375.0 w=520.0 h=54.0) min=(w=440.0 h=44.0)
+OK MainMenuRecipeList rect=(x=770.0 y=120.0 w=290.0 h=480.0) min=(w=280.0 h=250.0)
+
+PAUSE_OVERLAY
+OK OverlayPanel rect=(x=360.0 y=150.0 w=560.0 h=468.0) min=(w=540.0 h=390.0)
+OK OverlayNote rect=(x=384.0 y=332.0 w=512.0 h=78.0) min=(w=480.0 h=70.0)
+OK OverlayButtonResume rect=(x=384.0 y=422.0 w=512.0 h=52.0) min=(w=290.0 h=48.0)
+OK OverlayButtonRestart rect=(x=384.0 y=486.0 w=512.0 h=48.0) min=(w=290.0 h=44.0)
+OK OverlayButtonMainMenu rect=(x=384.0 y=546.0 w=512.0 h=48.0) min=(w=290.0 h=44.0)
+
+GAME_OVER_OVERLAY
+OK OverlayPanel rect=(x=360.0 y=150.0 w=560.0 h=420.0) min=(w=540.0 h=360.0)
+OK OverlayStats rect=(x=384.0 y=340.0 w=512.0 h=74.0) min=(w=390.0 h=70.0)
+OK OverlayButtonRestart rect=(x=384.0 y=426.0 w=512.0 h=52.0) min=(w=290.0 h=48.0)
+OK OverlayButtonMainMenu rect=(x=384.0 y=490.0 w=512.0 h=48.0) min=(w=290.0 h=44.0)

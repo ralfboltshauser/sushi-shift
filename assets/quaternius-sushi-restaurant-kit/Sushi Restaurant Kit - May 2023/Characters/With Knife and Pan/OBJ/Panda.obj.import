@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cl8gs2a022sd0"
+path="res://.godot/imported/Panda.obj-72f8cf0b4ecd0c2d930eab8841693955.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Panda.obj-72f8cf0b4ecd0c2d930eab8841693955.mesh"]
+
+source_file="res://assets/quaternius-sushi-restaurant-kit/Sushi Restaurant Kit - May 2023/Characters/With Knife and Pan/OBJ/Panda.obj"
+dest_files=["res://.godot/imported/Panda.obj-72f8cf0b4ecd0c2d930eab8841693955.mesh", "res://.godot/imported/Panda.obj-72f8cf0b4ecd0c2d930eab8841693955.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

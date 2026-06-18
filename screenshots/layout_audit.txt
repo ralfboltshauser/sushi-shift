@@ -1,0 +1,72 @@
+WORLD_SCREEN_BOUNDS
+Player pos=(-4.35,0.75,-0.60) aabb=(x=-6.50 y=-0.00 z=-1.56 sx=4.30 sy=2.83 sz=2.23) screen=(x=4.7 y=195.8 w=468.0 h=300.7)
+GuestRabbitPink pos=(-4.15,0.40,2.68) aabb=(x=-5.33 y=0.40 z=2.26 sx=2.36 sy=2.08 sz=1.02) screen=(x=-5.5 y=361.2 w=345.7 h=255.3)
+GuestRabbitBlond pos=(0.00,0.40,2.68) aabb=(x=-1.18 y=0.40 z=2.26 sx=2.36 sy=2.08 sz=0.95) screen=(x=498.2 y=361.2 w=283.7 h=250.1)
+GuestRabbitGrey pos=(4.15,0.40,2.68) aabb=(x=2.97 y=0.40 z=2.26 sx=2.36 sy=2.08 sz=0.95) screen=(x=939.8 y=361.2 w=341.1 h=250.1)
+Fridge pos=(-6.55,0.00,-3.58) aabb=(x=-7.38 y=0.02 z=-4.15 sx=1.68 sy=2.51 sz=1.50) screen=(x=74.2 y=161.4 w=191.9 h=204.0)
+Oven pos=(5.95,0.00,-3.43) aabb=(x=5.18 y=0.00 z=-3.93 sx=1.54 sy=1.60 sz=1.41) screen=(x=983.3 y=227.6 w=161.8 h=142.9)
+CanFridge pos=(4.20,0.00,-3.32) aabb=(x=3.55 y=-0.01 z=-3.71 sx=1.30 sy=2.41 sz=0.76) screen=(x=878.2 y=178.5 w=125.2 h=179.1)
+Pots pos=(5.65,0.82,-1.48) aabb=(x=5.21 y=0.82 z=-1.83 sx=0.89 sy=0.41 sz=0.70) screen=(x=1038.7 y=309.1 w=95.6 h=52.4)
+Bottles pos=(-0.20,1.02,-2.70) aabb=(x=-0.46 y=1.02 z=-3.08 sx=0.52 sy=0.59 sz=0.76) screen=(x=604.9 y=247.5 w=39.9 h=61.4)
+BambooPlanter pos=(6.45,0.00,-0.45) aabb=(x=6.12 y=-0.00 z=-0.79 sx=0.69 sy=2.01 sz=0.67) screen=(x=1128.1 y=283.0 w=120.0 h=177.0)
+PlantLeft pos=(-6.45,0.00,-0.45) aabb=(x=-6.83 y=-0.00 z=-0.83 sx=0.76 sy=0.59 sz=0.76) screen=(x=57.2 y=389.2 w=100.1 h=73.0)
+SakuraAccent pos=(5.55,0.72,1.25) aabb=(x=5.25 y=0.41 z=1.25 sx=0.60 sy=0.59 sz=0.28) screen=(x=1129.5 y=445.5 w=80.6 h=62.2)
+DisplayOnigiriPlate pos=(-4.05,0.97,0.48) aabb=(x=-4.49 y=0.97 z=0.03 sx=0.88 sy=0.54 sz=0.89) screen=(x=213.9 y=351.7 w=111.5 h=81.3)
+DisplayNigiriPlate pos=(-2.75,0.97,0.48) aabb=(x=-3.19 y=0.97 z=0.03 sx=0.88 sy=0.43 sz=0.89) screen=(x=338.4 y=360.3 w=100.2 h=72.7)
+DisplayRollPlate pos=(-1.45,0.97,0.48) aabb=(x=-1.89 y=0.97 z=0.03 sx=0.88 sy=0.52 sz=0.89) screen=(x=460.6 y=353.8 w=91.2 h=79.2)
+DisplayDangoPlate pos=(1.20,0.97,0.48) aabb=(x=0.76 y=0.97 z=0.03 sx=0.88 sy=0.41 sz=0.89) screen=(x=705.9 y=361.9 w=88.6 h=71.1)
+DisplayRamenPlate pos=(2.50,0.97,0.48) aabb=(x=2.06 y=0.97 z=0.03 sx=0.88 sy=0.54 sz=0.89) screen=(x=819.1 y=352.1 w=99.4 h=80.9)
+DisplayTamagoPlate pos=(3.80,0.97,0.48) aabb=(x=3.36 y=0.97 z=0.03 sx=0.88 sy=0.41 sz=0.89) screen=(x=932.2 y=362.4 w=107.5 h=70.6)
+rice_bin pos=(-4.95,0.15,-1.65) aabb=(x=-6.67 y=0.15 z=-2.64 sx=3.44 sy=2.06 sz=1.75) screen=(x=72.1 y=216.3 w=336.8 h=201.5)
+salmon_bin pos=(-3.15,0.15,-1.65) aabb=(x=-4.87 y=0.15 z=-2.54 sx=3.44 sy=1.85 sz=2.37) screen=(x=206.7 y=234.0 w=330.4 h=213.2)
+nori_bin pos=(-1.35,0.15,-1.65) aabb=(x=-3.07 y=0.15 z=-2.59 sx=3.44 sy=1.50 sz=2.42) screen=(x=370.2 y=257.6 w=302.3 h=189.6)
+cucumber_bin pos=(0.45,0.15,-1.65) aabb=(x=-1.27 y=0.15 z=-2.41 sx=3.44 sy=1.64 sz=2.24) screen=(x=527.9 y=252.6 w=303.8 h=194.5)
+cutting pos=(2.25,0.15,-1.65) aabb=(x=1.19 y=0.15 z=-2.27 sx=1.80 sy=2.28 sz=1.56) screen=(x=726.8 y=209.1 w=173.0 h=215.7)
+assembly pos=(4.05,0.15,-1.65) aabb=(x=2.33 y=0.15 z=-2.41 sx=3.44 sy=1.50 sz=1.52) screen=(x=808.9 y=262.4 w=313.2 h=155.4)
+serving pos=(3.75,0.15,0.72) aabb=(x=2.31 y=0.15 z=0.08 sx=2.89 sy=1.50 sz=1.28) screen=(x=835.8 y=342.4 w=316.4 h=177.0)
+
+SIZE_BALANCE
+Player group=player screen=(x=4.7 y=195.8 w=468.0 h=300.7) area=140726 target=(w 340-530 h 260-340) OK
+GuestRabbitPink group=guest screen=(x=-5.5 y=361.2 w=345.7 h=255.3) area=88256 target=(w 240-390 h 220-290) OK
+GuestRabbitBlond group=guest screen=(x=498.2 y=361.2 w=283.7 h=250.1) area=70946 target=(w 240-390 h 220-290) OK
+GuestRabbitGrey group=guest screen=(x=939.8 y=361.2 w=341.1 h=250.1) area=85309 target=(w 240-390 h 220-290) OK
+Fridge group=appliance screen=(x=74.2 y=161.4 w=191.9 h=204.0) area=39163 target=(w 120-330 h 140-330) OK
+Oven group=appliance screen=(x=983.3 y=227.6 w=161.8 h=142.9) area=23121 target=(w 120-330 h 140-330) OK
+CanFridge group=appliance screen=(x=878.2 y=178.5 w=125.2 h=179.1) area=22435 target=(w 120-330 h 140-330) OK
+Pots group=background_small_prop screen=(x=1038.7 y=309.1 w=95.6 h=52.4) area=5009 target=(w 36-125 h 45-110) OK
+Bottles group=background_small_prop screen=(x=604.9 y=247.5 w=39.9 h=61.4) area=2447 target=(w 36-125 h 45-110) OK
+BambooPlanter group=background_large_prop screen=(x=1128.1 y=283.0 w=120.0 h=177.0) area=21230 target=(w 80-150 h 120-220) OK
+PlantLeft group=background_small_prop screen=(x=57.2 y=389.2 w=100.1 h=73.0) area=7303 target=(w 36-125 h 45-110) OK
+SakuraAccent group=background_small_prop screen=(x=1129.5 y=445.5 w=80.6 h=62.2) area=5016 target=(w 36-125 h 45-110) OK
+DisplayOnigiriPlate group=counter_food screen=(x=213.9 y=351.7 w=111.5 h=81.3) area=9072 target=(w 86-145 h 70-108) OK
+DisplayNigiriPlate group=counter_food screen=(x=338.4 y=360.3 w=100.2 h=72.7) area=7290 target=(w 86-145 h 70-108) OK
+DisplayRollPlate group=counter_food screen=(x=460.6 y=353.8 w=91.2 h=79.2) area=7223 target=(w 86-145 h 70-108) OK
+DisplayDangoPlate group=counter_food screen=(x=705.9 y=361.9 w=88.6 h=71.1) area=6305 target=(w 86-145 h 70-108) OK
+DisplayRamenPlate group=counter_food screen=(x=819.1 y=352.1 w=99.4 h=80.9) area=8041 target=(w 86-145 h 70-108) OK
+DisplayTamagoPlate group=counter_food screen=(x=932.2 y=362.4 w=107.5 h=70.6) area=7592 target=(w 86-145 h 70-108) OK
+rice_bin group=prep_station screen=(x=72.1 y=216.3 w=336.8 h=201.5) area=67853 target=(w 150-380 h 125-245) OK
+salmon_bin group=prep_station screen=(x=206.7 y=234.0 w=330.4 h=213.2) area=70425 target=(w 150-380 h 125-245) OK
+nori_bin group=prep_station screen=(x=370.2 y=257.6 w=302.3 h=189.6) area=57312 target=(w 150-380 h 125-245) OK
+cucumber_bin group=prep_station screen=(x=527.9 y=252.6 w=303.8 h=194.5) area=59087 target=(w 150-380 h 125-245) OK
+cutting group=prep_station screen=(x=726.8 y=209.1 w=173.0 h=215.7) area=37314 target=(w 150-380 h 125-245) OK
+assembly group=prep_station screen=(x=808.9 y=262.4 w=313.2 h=155.4) area=48678 target=(w 150-380 h 125-245) OK
+serving group=serve_station screen=(x=835.8 y=342.4 w=316.4 h=177.0) area=55985 target=(w 150-330 h 100-245) OK
+
+SIZE_OUTLIERS
+none
+
+UI_SIZE_BALANCE
+StatusPanel group=hud_status screen=(x=18.0 y=14.0 w=327.0 h=50.0) target=(w 270-380 h 42-64) OK
+OrdersPanel group=hud_orders screen=(x=360.0 y=14.0 w=790.0 h=78.0) target=(w 760-830 h 72-92) OK
+OrdersStrip group=hud_orders_strip screen=(x=368.0 y=22.0 w=774.0 h=62.0) target=(w 740-810 h 58-76) OK
+GuidePanel group=hud_guide screen=(x=360.0 y=100.0 w=520.0 h=86.0) target=(w 500-560 h 78-100) OK
+PromptPanel group=hud_prompt screen=(x=430.0 y=640.0 w=420.0 h=50.0) target=(w 380-520 h 36-52) OK
+
+UI_SIZE_OUTLIERS
+none
+
+SCREEN_EDGE_CLIPPING
+
+UI_WORLD_OVERLAP
+
+STATION_SPACING

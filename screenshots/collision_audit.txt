@@ -1,0 +1,26 @@
+COLLISION_BLOCKERS
+rice_bin_blocker center=(-4.95,0.79,-1.67) size=(1.36,1.28,1.02) rect_xz=(x=-5.63 z=-2.18 w=1.36 d=1.02)
+salmon_bin_blocker center=(-3.15,0.79,-1.67) size=(1.36,1.28,1.02) rect_xz=(x=-3.83 z=-2.18 w=1.36 d=1.02)
+nori_bin_blocker center=(-1.35,0.79,-1.67) size=(1.36,1.28,1.02) rect_xz=(x=-2.03 z=-2.18 w=1.36 d=1.02)
+cucumber_bin_blocker center=(0.45,0.79,-1.67) size=(1.36,1.28,1.02) rect_xz=(x=-0.23 z=-2.18 w=1.36 d=1.02)
+cutting_blocker center=(2.25,0.79,-1.67) size=(1.36,1.28,1.02) rect_xz=(x=1.57 z=-2.18 w=1.36 d=1.02)
+assembly_blocker center=(4.05,0.79,-1.67) size=(1.36,1.28,1.02) rect_xz=(x=3.37 z=-2.18 w=1.36 d=1.02)
+serving_blocker center=(3.75,0.79,0.70) size=(1.14,1.28,0.86) rect_xz=(x=3.18 z=0.27 w=1.14 d=0.86)
+BackWallBlocker center=(0.00,0.75,-3.72) size=(14.00,1.50,0.55) rect_xz=(x=-7.00 z=-4.00 w=14.00 d=0.55)
+LeftWallBlocker center=(-7.25,0.75,-0.85) size=(0.55,1.50,6.20) rect_xz=(x=-7.53 z=-3.95 w=0.55 d=6.20)
+RightWallBlocker center=(7.25,0.75,-0.85) size=(0.55,1.50,6.20) rect_xz=(x=6.97 z=-3.95 w=0.55 d=6.20)
+ServingBarBlocker center=(0.00,0.72,0.98) size=(13.70,1.35,0.58) rect_xz=(x=-6.85 z=0.69 w=13.70 d=0.58)
+DiningAreaBlocker center=(0.00,0.72,2.45) size=(13.60,1.35,1.70) rect_xz=(x=-6.80 z=1.60 w=13.60 d=1.70)
+FridgeBlocker center=(-6.55,0.70,-3.58) size=(1.12,1.40,0.90) rect_xz=(x=-7.11 z=-4.03 w=1.12 d=0.90)
+CanFridgeBlocker center=(4.20,0.66,-3.32) size=(0.98,1.32,0.72) rect_xz=(x=3.71 z=-3.68 w=0.98 d=0.72)
+OvenBlocker center=(5.95,0.72,-3.43) size=(1.20,1.44,0.98) rect_xz=(x=5.35 z=-3.92 w=1.20 d=0.98)
+LeftPlantBlocker center=(-6.45,0.45,-0.45) size=(0.68,0.90,0.68) rect_xz=(x=-6.79 z=-0.79 w=0.68 d=0.68)
+BambooBlocker center=(6.45,0.50,-0.45) size=(0.68,1.00,0.68) rect_xz=(x=6.11 z=-0.79 w=0.68 d=0.68)
+
+CASE bottom_counter action=move_down start=(0.00,-0.45) final=(0.00,0.28) overlaps=0
+
+CASE prep_station_row action=move_up start=(-3.15,-0.72) final=(-3.15,-0.84) overlaps=0
+
+CASE left_wall action=move_left start=(-6.15,-0.80) final=(-6.65,-1.11) overlaps=0
+
+CASE right_wall action=move_right start=(6.15,-0.80) final=(6.65,-1.11) overlaps=0

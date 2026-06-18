@@ -1,0 +1,16 @@
+.godot/
+.uv-cache/
+builds/
+metadata/
+docs/
+
+# Local run logs and generated screenshots.
+sushi-shift-launch.log
+screenshots/*.png
+screenshots/*.png.import
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

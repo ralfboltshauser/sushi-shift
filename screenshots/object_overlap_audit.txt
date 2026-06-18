@@ -1,0 +1,31 @@
+OBJECT_FOOTPRINTS
+rice_bin group=station aabb=(x=-6.67 z=-2.64 sx=3.44 sz=1.75) rect=(x=-6.67 z=-2.64 w=3.44 d=1.75)
+salmon_bin group=station aabb=(x=-4.87 z=-2.54 sx=3.44 sz=2.37) rect=(x=-4.87 z=-2.54 w=3.44 d=2.37)
+nori_bin group=station aabb=(x=-3.07 z=-2.59 sx=3.44 sz=2.42) rect=(x=-3.07 z=-2.59 w=3.44 d=2.42)
+cucumber_bin group=station aabb=(x=-1.27 z=-2.41 sx=3.44 sz=2.24) rect=(x=-1.27 z=-2.41 w=3.44 d=2.24)
+cutting group=station aabb=(x=1.19 z=-2.27 sx=1.80 sz=1.56) rect=(x=1.19 z=-2.27 w=1.80 d=1.56)
+assembly group=station aabb=(x=2.33 z=-2.41 sx=3.44 sz=1.52) rect=(x=2.33 z=-2.41 w=3.44 d=1.52)
+serving group=station aabb=(x=2.31 z=0.08 sx=2.89 sz=1.28) rect=(x=2.31 z=0.08 w=2.89 d=1.28)
+Fridge group=appliance aabb=(x=-7.38 z=-4.15 sx=1.68 sz=1.50) rect=(x=-7.38 z=-4.15 w=1.68 d=1.50)
+Oven group=appliance aabb=(x=5.18 z=-3.93 sx=1.54 sz=1.41) rect=(x=5.18 z=-3.93 w=1.54 d=1.41)
+CanFridge group=appliance aabb=(x=3.55 z=-3.71 sx=1.30 sz=0.76) rect=(x=3.55 z=-3.71 w=1.30 d=0.76)
+BambooPlanter group=decor aabb=(x=6.12 z=-0.79 sx=0.69 sz=0.67) rect=(x=6.12 z=-0.79 w=0.69 d=0.67)
+PlantLeft group=decor aabb=(x=-6.83 z=-0.83 sx=0.76 sz=0.76) rect=(x=-6.83 z=-0.83 w=0.76 d=0.76)
+SakuraAccent group=decor aabb=(x=5.25 z=1.25 sx=0.60 sz=0.28) rect=(x=5.25 z=1.25 w=0.60 d=0.28)
+Pots group=small_prop aabb=(x=5.21 z=-1.83 sx=0.89 sz=0.70) rect=(x=5.21 z=-1.83 w=0.89 d=0.70)
+Bottles group=small_prop aabb=(x=-0.46 z=-3.08 sx=0.52 sz=0.76) rect=(x=-0.46 z=-3.08 w=0.52 d=0.76)
+
+OBJECT_OVERLAPS
+allowed rice_bin <-> salmon_bin area=2.70 min_ratio=0.45
+allowed salmon_bin <-> nori_bin area=3.89 min_ratio=0.48
+allowed nori_bin <-> cucumber_bin area=3.68 min_ratio=0.48
+allowed nori_bin <-> Bottles area=0.14 min_ratio=0.35
+allowed cucumber_bin <-> cutting area=1.53 min_ratio=0.54
+allowed cucumber_bin <-> Bottles area=0.05 min_ratio=0.12
+allowed cutting <-> assembly area=0.91 min_ratio=0.33
+allowed assembly <-> Pots area=0.40 min_ratio=0.64
+
+BAD_OVERLAPS
+none
+
+DEBUG_SCREENSHOT skipped: headless display
